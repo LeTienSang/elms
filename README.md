@@ -1,4 +1,4 @@
-## Frontend
+## Frontend: React + TypeScript + TailwindCSS
 
 ```bash
 cd frontend
