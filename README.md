@@ -1,5 +1,5 @@
-## Frontend: React + TypeScript + TailwindCSS
-
+## Frontend
+React + TypeScript + TailwindCSS
 ```bash
 cd frontend
 npm install
